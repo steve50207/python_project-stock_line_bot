@@ -19,4 +19,5 @@
 - Happy Coder Self Learning-Python Invest Analysis and Line Bot: [https://www.coderbridge.com/columns/11780fba5ba04345a9cd2b02871d811c/info]
 - Google Sheet API: [https://console.cloud.google.com/welcome?project=python-line-bot-370618&organizationId=0&supportedpurview=project]
 - Line Developer Messaging API: [https://developers.line.biz/]
+- Ngrok: [https://ngrok.com/]
 - You can get more detail in this file "Python Final Project-invest line bot".
